@@ -1,6 +1,6 @@
 **Insertion Sort Projesi**
 
-1. [22, 27, 16, 2, 18, 6]; Dizinin en başındaki sayı ile en küçük sayı yer değiştirilerek insertion sort adımları başlar.
+1.[22, 27, 16, 2, 18, 6]; Dizinin en başındaki sayı ile en küçük sayı yer değiştirilerek insertion sort adımları başlar.
 
 [2, 27, 16, 22, 18, 6] 
 
